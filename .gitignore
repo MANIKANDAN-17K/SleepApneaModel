@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Numpy data files
+*.npy
+
+# Large data files
+*.csv
+*.h5
+*.pt
+
+# OS files
+.DS_Store
